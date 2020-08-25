@@ -1,6 +1,6 @@
 {
   "name": "@straw-hat/babel-preset-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Babel configuration for compiling libraries",
   "author": "Straw Hat Team <opensource@straw-hat-llc.com>",
   "repository": {
